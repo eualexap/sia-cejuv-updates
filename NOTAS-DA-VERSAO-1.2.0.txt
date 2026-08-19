@@ -1,0 +1,28 @@
+SIA CEJUV 1.2.0 - 19/08/2026
+================================
+
+Continuidade de frequência nas trocas de turma e melhorias operacionais.
+
+Atualizações
+-------------
+
+- Uma troca inequívoca de turma na mesma atividade e ciclo é identificada
+  automaticamente pela planilha diária, sem copiar ou mover o histórico.
+- A matrícula anterior passa para Transferida e deixa de ser tratada como
+  evasão. Casos ambíguos podem ser corrigidos de forma auditável no perfil.
+- A política risco-v4 considera a trajetória da mesma atividade ao calcular o
+  risco atual, preservando a recuperação após presenças recentes.
+- A frequência acumulada continua visível na turma nova e a interface distingue
+  claramente quando ainda não existem registros nessa turma.
+- Cada linha do dashboard pode ser expandida para mostrar datas de presença e
+  falta, agrupadas pelas turmas percorridas.
+- A Gestão de Planilhas não conta o dia corrente de São Paulo como pendência.
+- A ação Verificar atualizações permite nova consulta sem reiniciar o SIA; uma
+  falha automática volta a ser tentada após 15 minutos.
+
+Atualização assistida
+---------------------
+
+Instalações na versão 1.1.0 ou 1.1.1 podem baixar, validar e aplicar esta
+atualização pelo aviso exibido no próprio SIA. A distribuição por pendrive
+permanece como contingência.
