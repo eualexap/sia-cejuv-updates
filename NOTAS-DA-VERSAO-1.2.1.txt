@@ -1,0 +1,23 @@
+SIA CEJUV 1.2.1 - 19/08/2026
+================================
+
+Mais contexto de frequência no acompanhamento de risco e novo tipo de contato.
+
+Atualizações
+-------------
+
+- As linhas de Beneficiários em risco agora podem ser expandidas para mostrar
+  as datas de presença e falta sem sair do dashboard.
+- O histórico é carregado somente ao abrir a linha e reutilizado entre a
+  tabela de risco e Todos os Beneficiários.
+- O modal Registrar contato passa a oferecer Presença na atividade no campo
+  Tipo de contato.
+- O novo tipo também aparece corretamente na edição e no histórico de contatos
+  do perfil do beneficiário.
+
+Atualização assistida
+---------------------
+
+Instalações a partir da versão 1.1.0 podem baixar, validar e aplicar esta
+atualização pelo aviso exibido no próprio SIA. A distribuição por pendrive
+permanece como contingência.
