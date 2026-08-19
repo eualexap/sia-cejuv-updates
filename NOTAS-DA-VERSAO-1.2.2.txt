@@ -1,0 +1,25 @@
+SIA CEJUV 1.2.2 - 19/08/2026
+================================
+
+Correção definitiva do reinício da atualização assistida no Windows.
+
+Atualizações
+-------------
+
+- O helper de atualização deixa de usar o modo de processo que podia encerrar
+  sem executar o comando codificado no Windows.
+- O helper sinaliza que está pronto, espera o SIA encerrar e somente depois
+  substitui o executável e inicia a nova versão.
+- A verificação da prontidão tolera a ordem real dos eventos do processo e do
+  arquivo marcador, eliminando a condição de corrida observada.
+- Falhas futuras informam corretamente se ocorreram no download, no backup ou
+  na preparação do reinício; o log técnico também conserva a causa.
+
+Instalação manual necessária uma vez
+------------------------------------
+
+Como o defeito está no atualizador das versões anteriores, a versão 1.2.2 deve
+ser instalada manualmente pelo release público ou por pendrive. Feche o SIA
+pela opção Sair, substitua somente SIA CEJUV.exe e preserve as pastas data e
+backups. Depois da 1.2.2, as próximas atualizações voltam a funcionar pelo
+botão Baixar e atualizar.
