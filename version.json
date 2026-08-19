@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "1.1.1",
+  "latestVersion": "1.2.0",
   "releaseDate": "2026-08-19",
-  "summary": "Aprimora a recuperação de risco e o Diário, com sugestão de turno e linhas mais espaçosas.",
-  "sha256": "624e72e7b380d4adba065dafb2a6688490954ede8219e65c8526567ffc57406f",
+  "summary": "Preserva frequência e risco nas trocas de turma, detalha datas no dashboard e melhora a verificação de atualizações.",
+  "sha256": "7166601e7decd90c21b5818f66f5272ea3266c74b2caed9acd1a8e4f0d960f37",
   "minimumVersion": "1.1.0"
 }
