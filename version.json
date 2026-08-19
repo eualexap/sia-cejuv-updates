@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "1.2.1",
+  "latestVersion": "1.2.2",
   "releaseDate": "2026-08-19",
-  "summary": "Expande frequências na tabela de risco e registra presença na atividade como tipo de contato.",
-  "sha256": "8fea4bcab39936a01bdc6f9bef7a27159bd487b1cc9ca1f126eeae7e47a9ee0e",
+  "summary": "Corrige o reinício automático das próximas atualizações. Instale esta versão manualmente uma vez pelo release ou pendrive.",
+  "sha256": "fa2726109c8189fee558369ec921dc3cf71d7bc5ad0be237bd99496ae9f90a31",
   "minimumVersion": "1.1.0"
 }
