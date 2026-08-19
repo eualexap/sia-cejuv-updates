@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.2.1",
   "releaseDate": "2026-08-19",
-  "summary": "Preserva frequência e risco nas trocas de turma, detalha datas no dashboard e melhora a verificação de atualizações.",
-  "sha256": "7166601e7decd90c21b5818f66f5272ea3266c74b2caed9acd1a8e4f0d960f37",
+  "summary": "Expande frequências na tabela de risco e registra presença na atividade como tipo de contato.",
+  "sha256": "8fea4bcab39936a01bdc6f9bef7a27159bd487b1cc9ca1f126eeae7e47a9ee0e",
   "minimumVersion": "1.1.0"
 }
