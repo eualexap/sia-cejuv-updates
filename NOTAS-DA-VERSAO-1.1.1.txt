@@ -1,0 +1,29 @@
+SIA CEJUV 1.1.1 - 19/08/2026
+================================
+
+Aprimoramentos no acompanhamento de risco e na emissão do Diário.
+
+Atualizações
+-------------
+
+- Uma única falta nas quatro primeiras aulas deixa de manter o nível Atenção
+  depois de duas presenças consecutivas, quando nenhum outro critério de risco
+  estiver acionado.
+- Duas ou mais faltas nas quatro primeiras aulas continuam definindo nível
+  Crítico durante a janela inicial.
+- O campo Turno do Diário passa a sugerir Matutino, Vespertino, Noturno ou
+  Integral a partir das abreviações no nome da turma e permanece editável.
+- Nomes sem indicação de turno ou com indicações ambíguas continuam exigindo
+  preenchimento manual.
+- O Registro de Frequência passa a usar até 20 beneficiários por página, com
+  linhas mais altas e nomes centralizados verticalmente. Turmas maiores recebem
+  uma página de frequência adicional.
+- A migração atualiza somente os riscos do ciclo ativo para a política risco-v3;
+  ciclos arquivados preservam o histórico e a versão anterior da política.
+
+Atualização assistida
+---------------------
+
+Instalações na versão 1.1.0 podem baixar, validar e aplicar esta atualização
+pelo aviso exibido no próprio SIA. A distribuição por pendrive permanece como
+contingência.
