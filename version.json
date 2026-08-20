@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "latestVersion": "1.2.2",
-  "releaseDate": "2026-08-19",
-  "summary": "Corrige o reinício automático das próximas atualizações. Instale esta versão manualmente uma vez pelo release ou pendrive.",
-  "sha256": "fa2726109c8189fee558369ec921dc3cf71d7bc5ad0be237bd99496ae9f90a31",
+  "latestVersion": "1.2.3",
+  "releaseDate": "2026-08-20",
+  "summary": "Exibe o número da matrícula ao lado do telefone nas tabelas de beneficiários do dashboard.",
+  "sha256": "c91090872a696ad2eb9a0c12b3203239c9f381834418030f01b2576373e5c28a",
   "minimumVersion": "1.1.0"
 }
