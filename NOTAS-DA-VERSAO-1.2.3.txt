@@ -1,0 +1,21 @@
+SIA CEJUV 1.2.3 - 20/08/2026
+================================
+
+Identificação mais rápida das matrículas no dashboard.
+
+Atualização
+-----------
+
+- A tabela Beneficiários em Risco passa a mostrar o número da matrícula na
+  mesma linha do telefone, abaixo do nome.
+- A tabela Todos os Beneficiários recebe a mesma identificação.
+- Quando a pessoa possui mais de uma matrícula no ciclo selecionado, todos os
+  números aparecem juntos na linha.
+- A matrícula continua visível mesmo quando não há telefone cadastrado.
+
+Atualização assistida
+---------------------
+
+Instalações a partir da versão 1.2.2 podem baixar, validar e aplicar esta
+atualização pelo aviso exibido no próprio SIA. A distribuição por pendrive
+permanece como contingência.
